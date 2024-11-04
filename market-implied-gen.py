@@ -1,8 +1,8 @@
 
 import pandas as pd
 
-goalie = pd.read_csv("goalie-gsax-output.csv")
-prices = pd.read_csv("price-export-2024.csv")
+goalie = pd.read_csv("C:\Users\NolanNicholls\Documents\NHL\2024\scott_scripts\goalie-gsax-output.csv")
+prices = pd.read_csv("C:\Users\NolanNicholls\Documents\NHL\2024\scott_scripts\price-export-2024.csv")
 
 goalie = goalie.sort_values(by='toi', ascending=False).drop_duplicates(subset=["gid", "Goalie Team"], keep='first')
 
@@ -23,5 +23,5 @@ prices.columns = ['date', 'game-ID', 'home_team_abv', 'away_team_abv', 'gametime
        'close_away_ml', 'close_home_ml', 'close_total_line',
        'close_total_over', 'close_total_under', 'home_goalie', 'away_goalie']
 
-prices.to_csv("market-implied-data-file.csv", index=False)
+prices.to_csv("C:\Users\NolanNicholls\Documents\NHL\market-implied-data-file.csv", index=False)
 

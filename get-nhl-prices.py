@@ -198,7 +198,7 @@ for i in data:
 df = pd.DataFrame.from_dict(price_data, orient='index').reset_index().rename({"index":"gid"},axis=1)
 df['date'] = df['date'].apply(lambda x: convert_time(x[:-2] + "Z"))
 df = df.sort_values(by="date", ascending=True).reset_index(drop=True)
-df = df.replace({'NAS':"NSH", 'TAM':"TBL", 'UTA':"ARI", 'WAS':"WSH", 'WNP':"WPG", "Utah Hockey Club":"ARI"})
+df = df.replace({'NAS':"NSH", 'TAM':"TBL", 'WAS':"WSH", 'WNP':"WPG"})
 games['map'] = games.apply(lambda x: "{}-{}-{}".format(x["Date"], x["Away Team"], x["Home Team"]), axis=1)
 df['map'] = df.apply(lambda x: "{}-{}-{}".format(x["date"], x["away_team_abv"], x["home_team_abv"]), axis=1)
 
@@ -208,4 +208,4 @@ games = games.merge(df[['gid', 'open_away_ml', 'close_away_ml', 'open_home_ml',
        'close_total_under', 'open_hc_line', 'open_hc_away', 'open_hc_home',
        'close_hc_line', 'close_hc_away', 'close_hc_home', 'map']],on='map',how='left', suffixes=("_nhl",'_ubiq'))
 
-games.to_csv("price-export-2024.csv")
+games.to_csv("C:\Users\NolanNicholls\Documents\NHL\2024\scott_scripts\price-export-2024.csv")

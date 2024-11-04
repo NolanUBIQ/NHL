@@ -1,108 +1,191 @@
 gid,Season Type,Neutral,Date,Team,Team Long,isHome,Away Team,Away Team Long,Home Team,Home Team Long,Away Score,Home Score,5on5 Flurry Xgoals,5on5 goals,5on4 Flurry Xgoals,5on4 goals,4on5 Flurry Xgoals,4on5 goals,opp_5on5 Flurry Xgoals,opp_5on5 goals,opp_5on4 Flurry Xgoals,opp_5on4 goals,opp_4on5 Flurry Xgoals,opp_4on5 goals,EV_home_goals,PP_home_goals,SH_home_goals,EV_away_goals,PP_away_goals,SH_away_goals
-2024020001,2,True,2024-10-04,BUF,Buffalo Sabres,True,NJD,New Jersey Devils,BUF,Buffalo Sabres,4,1,2.378,1.0,0.9169999999999999,0.0,0.0,0.0,1.58,3.0,0.027000000000000003,0.0,0.191,0.0,1,0,0,4,0,0
-2024020002,2,True,2024-10-05,NJD,New Jersey Devils,True,BUF,Buffalo Sabres,NJD,New Jersey Devils,1,3,2.665,2.0,0.846,1.0,0.104,0.0,1.327,1.0,0.01,0.0,0.053,0.0,2,1,0,1,0,0
-2024020003,2,False,2024-10-08,SEA,Seattle Kraken,True,STL,St. Louis Blues,SEA,Seattle Kraken,3,2,3.178,2.0,0.291,0.0,0.0,0.0,1.783,2.0,0.726,1.0,0.0,0.0,2,0,0,2,1,0
-2024020004,2,False,2024-10-08,FLA,Florida Panthers,True,BOS,Boston Bruins,FLA,Florida Panthers,4,6,4.107,5.0,1.08,0.0,0.048,1.0,2.475,2.0,1.166,1.0,0.112,1.0,5,0,1,2,1,1
-2024020005,2,False,2024-10-08,UTA,Arizona Coyotes,True,CHI,Chicago Blackhawks,UTA,Arizona Coyotes,2,5,2.6,4.0,0.154,0.0,0.219,0.0,2.625,2.0,0.026999999999999996,0.0,0.0,0.0,5,0,0,2,0,0
-2024020006,2,False,2024-10-09,MTL,Montréal Canadiens,True,TOR,Toronto Maple Leafs,MTL,Montréal Canadiens,0,1,1.417,0.0,1.19,1.0,0.054,0.0,3.668,0.0,0.079,0.0,0.113,0.0,0,1,0,0,0,0
-2024020007,2,False,2024-10-09,PIT,Pittsburgh Penguins,True,NYR,New York Rangers,PIT,Pittsburgh Penguins,6,0,2.617,0.0,0.5760000000000001,0.0,0.0,0.0,3.9090000000000003,5.0,0.023,0.0,0.261,1.0,0,0,0,5,0,1
-2024020008,2,False,2024-10-09,EDM,Edmonton Oilers,True,WPG,Winnipeg Jets,EDM,Edmonton Oilers,6,0,2.265,0.0,0.252,0.0,0.182,0.0,1.3860000000000001,4.0,1.0430000000000001,2.0,0.01,0.0,0,0,0,4,2,0
-2024020009,2,False,2024-10-09,VAN,Vancouver Canucks,True,CGY,Calgary Flames,VAN,Vancouver Canucks,6,5,2.1109999999999998,2.0,0.424,2.0,0.005,0.0,1.166,3.0,0.417,1.0,0.17,1.0,3,2,0,4,1,1
-2024020010,2,False,2024-10-09,VGK,Vegas Golden Knights,True,COL,Colorado Avalanche,VGK,Vegas Golden Knights,4,8,1.507,5.0,0.525,2.0,0.0,0.0,1.987,3.0,0.615,1.0,0.0,0.0,6,2,0,3,1,0
-2024020011,2,False,2024-10-10,BOS,Boston Bruins,True,MTL,Montréal Canadiens,BOS,Boston Bruins,4,6,2.197,5.0,0.755,1.0,0.088,0.0,1.977,3.0,0.817,1.0,0.112,0.0,5,1,0,3,1,0
-2024020012,2,False,2024-10-10,BUF,Buffalo Sabres,True,LAK,Los Angeles Kings,BUF,Buffalo Sabres,3,1,1.7049999999999998,0.0,1.209,0.0,0.773,1.0,1.158,1.0,0.5730000000000001,1.0,0.062,0.0,0,0,1,2,1,0
-2024020013,2,False,2024-10-10,OTT,Ottawa Senators,True,FLA,Florida Panthers,OTT,Ottawa Senators,1,3,1.104,1.0,0.848,1.0,0.05,0.0,1.887,1.0,0.06899999999999999,0.0,0.015,0.0,2,1,0,1,0,0
-2024020015,2,False,2024-10-10,NJD,New Jersey Devils,True,TOR,Toronto Maple Leafs,NJD,New Jersey Devils,4,2,1.315,1.0,0.756,1.0,0.012,0.0,1.699,4.0,0.020999999999999998,0.0,0.044,0.0,1,1,0,4,0,0
-2024020016,2,False,2024-10-10,NYI,New York Islanders,True,UTA,Arizona Coyotes,NYI,New York Islanders,5,4,1.076,2.0,1.1,1.0,0.365,1.0,2.182,2.0,1.212,2.0,0.0,0.0,2,1,1,3,2,0
-2024020014,2,False,2024-10-10,DET,Detroit Red Wings,True,PIT,Pittsburgh Penguins,DET,Detroit Red Wings,6,3,1.447,2.0,0.692,0.0,0.0,0.0,2.612,5.0,0.538,1.0,0.0,0.0,2,1,0,5,1,0
-2024020017,2,False,2024-10-10,NSH,Nashville Predators,True,DAL,Dallas Stars,NSH,Nashville Predators,4,3,1.737,1.0,1.28,1.0,0.013,0.0,1.413,3.0,0.511,1.0,0.023,0.0,2,1,0,3,1,0
-2024020018,2,False,2024-10-10,MIN,Minnesota Wild,True,CBJ,Columbus Blue Jackets,MIN,Minnesota Wild,2,3,1.54,2.0,0.625,1.0,0.0,0.0,1.411,1.0,0.627,1.0,0.061,0.0,2,1,0,1,1,0
-2024020019,2,False,2024-10-10,SJS,San Jose Sharks,True,STL,St. Louis Blues,SJS,San Jose Sharks,5,4,1.543,2.0,0.438,1.0,0.089,1.0,2.981,3.0,0.07100000000000001,0.0,0.028,0.0,2,1,1,5,0,0
-2024020020,2,False,2024-10-11,CAR,Carolina Hurricanes,True,TBL,Tampa Bay Lightning,CAR,Carolina Hurricanes,4,1,2.671,1.0,0.137,0.0,0.0,0.0,1.38,0.0,1.143,2.0,0.0,0.0,1,0,0,2,2,0
-2024020021,2,False,2024-10-11,WPG,Winnipeg Jets,True,CHI,Chicago Blackhawks,WPG,Winnipeg Jets,1,2,1.9540000000000002,0.0,0.432,0.0,0.0,0.0,1.663,1.0,0.116,0.0,0.0,0.0,2,0,0,1,0,0
-2024020022,2,False,2024-10-11,VAN,Vancouver Canucks,True,PHI,Philadelphia Flyers,VAN,Vancouver Canucks,3,2,1.497,2.0,1.303,0.0,0.011,0.0,0.959,1.0,1.016,1.0,0.118,0.0,2,0,0,1,1,0
-2024020023,2,False,2024-10-11,VGK,Vegas Golden Knights,True,STL,St. Louis Blues,VGK,Vegas Golden Knights,3,4,2.38,4.0,0.756,0.0,0.0,0.0,1.5110000000000001,2.0,0.5680000000000001,1.0,0.0,0.0,4,0,0,2,1,0
-2024020024,2,False,2024-10-12,BOS,Boston Bruins,True,LAK,Los Angeles Kings,BOS,Boston Bruins,1,2,0.768,0.0,0.212,0.0,0.031,0.0,1.1500000000000001,1.0,0.131,0.0,0.617,0.0,2,0,0,1,0,0
-2024020025,2,False,2024-10-12,BUF,Buffalo Sabres,True,FLA,Florida Panthers,BUF,Buffalo Sabres,2,5,2.828,4.0,0.251,0.0,0.022,0.0,0.918,1.0,0.92,1.0,0.089,0.0,5,0,0,1,1,0
-2024020026,2,False,2024-10-12,TOR,Toronto Maple Leafs,True,PIT,Pittsburgh Penguins,TOR,Toronto Maple Leafs,2,4,1.428,3.0,0.447,0.0,0.0,0.0,0.962,1.0,0.541,1.0,0.193,0.0,4,0,0,1,1,0
-2024020027,2,False,2024-10-12,MTL,Montréal Canadiens,True,OTT,Ottawa Senators,MTL,Montréal Canadiens,1,4,1.621,3.0,0.917,1.0,0.018,0.0,1.974,1.0,0.048,0.0,0.016,0.0,3,1,0,1,0,0
-2024020028,2,False,2024-10-12,DET,Detroit Red Wings,True,NSH,Nashville Predators,DET,Detroit Red Wings,0,3,1.762,2.0,0.713,0.0,0.041,0.0,2.3770000000000002,0.0,0.173,0.0,0.011,0.0,3,0,0,0,0,0
-2024020030,2,False,2024-10-12,NYR,New York Rangers,True,UTA,Arizona Coyotes,NYR,New York Rangers,6,5,3.0260000000000002,4.0,0.43,1.0,0.019,0.0,1.687,3.0,0.835,1.0,0.0,0.0,4,1,0,5,1,0
-2024020031,2,False,2024-10-12,WSH,Washington Capitals,True,NJD,New Jersey Devils,WSH,Washington Capitals,5,3,1.419,2.0,0.15100000000000002,1.0,0.183,0.0,1.9180000000000001,4.0,0.076,0.0,0.0,0.0,2,1,0,5,0,0
-2024020032,2,False,2024-10-12,DAL,Dallas Stars,True,NYI,New York Islanders,DAL,Dallas Stars,0,3,1.343,2.0,0.464,0.0,0.0,0.0,2.798,0.0,0.014,0.0,0.15,0.0,3,0,0,0,0,0
-2024020033,2,False,2024-10-12,MIN,Minnesota Wild,True,SEA,Seattle Kraken,MIN,Minnesota Wild,5,4,1.76,3.0,0.46599999999999997,1.0,0.0,0.0,1.205,2.0,0.777,1.0,0.0,0.0,3,1,0,3,1,0
-2024020034,2,False,2024-10-12,COL,Colorado Avalanche,True,CBJ,Columbus Blue Jackets,COL,Colorado Avalanche,6,4,2.497,1.0,1.051,2.0,0.0,0.0,1.405,5.0,0.17700000000000002,0.0,0.108,0.0,2,2,0,5,1,0
-2024020035,2,False,2024-10-12,CGY,Calgary Flames,True,PHI,Philadelphia Flyers,CGY,Calgary Flames,3,6,2.1229999999999998,3.0,0.867,0.0,0.077,0.0,1.794,1.0,0.125,0.0,0.208,1.0,4,2,0,1,1,1
-2024020036,2,False,2024-10-12,EDM,Edmonton Oilers,True,CHI,Chicago Blackhawks,EDM,Edmonton Oilers,5,2,2.831,1.0,0.477,1.0,0.0,0.0,0.854,2.0,1.377,3.0,0.0,0.0,1,1,0,2,3,0
-2024020037,2,False,2024-10-12,SJS,San Jose Sharks,True,ANA,Anaheim Ducks,SJS,San Jose Sharks,2,0,2.872,0.0,0.507,0.0,0.0,0.0,1.613,1.0,0.07100000000000001,0.0,0.0,0.0,0,0,0,2,0,0
-2024020038,2,False,2024-10-13,WPG,Winnipeg Jets,True,MIN,Minnesota Wild,WPG,Winnipeg Jets,1,2,1.879,0.0,0.346,0.0,0.0,0.0,1.701,1.0,0.048,0.0,0.0,0.0,1,1,0,1,0,0
-2024020039,2,False,2024-10-13,DAL,Dallas Stars,True,SEA,Seattle Kraken,DAL,Dallas Stars,0,2,2.038,2.0,0.661,0.0,0.007,0.0,1.486,0.0,0.5650000000000001,0.0,0.0,0.0,2,0,0,0,0,0
-2024020040,2,False,2024-10-13,EDM,Edmonton Oilers,True,CGY,Calgary Flames,EDM,Edmonton Oilers,4,1,2.2729999999999997,1.0,0.0,0.0,0.099,0.0,2.723,3.0,0.038,0.0,0.01,0.0,1,0,0,4,0,0
-2024020041,2,False,2024-10-13,VGK,Vegas Golden Knights,True,ANA,Anaheim Ducks,VGK,Vegas Golden Knights,1,3,2.337,2.0,1.803,1.0,0.143,0.0,2.791,1.0,0.016,0.0,0.095,0.0,2,1,0,1,0,0
-2024020042,2,False,2024-10-14,BOS,Boston Bruins,True,FLA,Florida Panthers,BOS,Boston Bruins,4,3,1.074,3.0,0.43600000000000005,0.0,0.0,0.0,1.392,1.0,1.037,1.0,0.19,1.0,3,0,0,2,1,1
-2024020043,2,False,2024-10-14,OTT,Ottawa Senators,True,LAK,Los Angeles Kings,OTT,Ottawa Senators,7,8,2.146,3.0,1.276,4.0,0.005,0.0,1.497,4.0,1.774,3.0,0.01,0.0,4,4,0,4,3,0
-2024020044,2,False,2024-10-14,NJD,New Jersey Devils,True,UTA,Arizona Coyotes,NJD,New Jersey Devils,0,3,1.82,1.0,2.006,2.0,0.256,0.0,1.4100000000000001,0.0,0.121,0.0,0.07400000000000001,0.0,1,2,0,0,0,0
-2024020045,2,False,2024-10-14,NYR,New York Rangers,True,DET,Detroit Red Wings,NYR,New York Rangers,1,4,1.607,2.0,0.8039999999999999,1.0,0.133,0.0,2.021,1.0,0.222,0.0,0.066,0.0,3,1,0,1,0,0
-2024020046,2,False,2024-10-14,MTL,Montréal Canadiens,True,PIT,Pittsburgh Penguins,MTL,Montréal Canadiens,6,3,2.138,2.0,0.366,1.0,0.127,0.0,4.071,5.0,0.01,0.0,0.0,0.0,2,1,0,6,0,0
-2024020047,2,False,2024-10-14,COL,Colorado Avalanche,True,NYI,New York Islanders,COL,Colorado Avalanche,6,2,2.499,2.0,0.027,0.0,0.073,0.0,2.46,4.0,0.0,0.0,0.274,1.0,2,0,0,5,0,1
-2024020048,2,False,2024-10-15,TBL,Tampa Bay Lightning,True,VAN,Vancouver Canucks,TBL,Tampa Bay Lightning,1,4,2.963,3.0,0.219,0.0,0.0,0.0,1.894,0.0,0.885,1.0,0.053,0.0,4,0,0,0,1,0
-2024020049,2,False,2024-10-15,WSH,Washington Capitals,True,VGK,Vegas Golden Knights,WSH,Washington Capitals,2,4,3.056,3.0,0.854,1.0,0.0,0.0,1.408,1.0,0.626,1.0,0.151,0.0,3,1,0,1,1,0
-2024020050,2,False,2024-10-15,CAR,Carolina Hurricanes,True,NJD,New Jersey Devils,CAR,Carolina Hurricanes,2,4,3.531,3.0,0.042,0.0,0.0,0.0,2.507,1.0,0.02,0.0,0.0,0.0,4,0,0,1,1,0
-2024020051,2,False,2024-10-15,CBJ,Columbus Blue Jackets,True,FLA,Florida Panthers,CBJ,Columbus Blue Jackets,4,3,2.122,1.0,0.262,0.0,0.15000000000000002,1.0,1.06,4.0,0.073,0.0,0.0,0.0,2,0,1,4,0,0
-2024020052,2,False,2024-10-15,STL,St. Louis Blues,True,MIN,Minnesota Wild,STL,St. Louis Blues,4,1,2.063,1.0,0.761,0.0,0.136,0.0,1.666,1.0,0.753,1.0,0.271,1.0,1,0,0,1,2,1
-2024020053,2,False,2024-10-15,NSH,Nashville Predators,True,SEA,Seattle Kraken,NSH,Nashville Predators,7,3,1.238,2.0,0.405,0.0,0.251,0.0,1.64,6.0,0.079,0.0,0.026,0.0,3,0,0,7,0,0
-2024020054,2,False,2024-10-15,DAL,Dallas Stars,True,SJS,San Jose Sharks,DAL,Dallas Stars,2,3,2.996,2.0,0.993,0.0,0.0,0.0,2.217,2.0,0.039,0.0,0.025,0.0,2,0,0,2,0,0
-2024020055,2,False,2024-10-15,CGY,Calgary Flames,True,CHI,Chicago Blackhawks,CGY,Calgary Flames,1,3,1.683,1.0,0.347,0.0,0.055999999999999994,0.0,2.026,1.0,0.07,0.0,0.078,0.0,2,1,0,1,0,0
-2024020056,2,False,2024-10-15,EDM,Edmonton Oilers,True,PHI,Philadelphia Flyers,EDM,Edmonton Oilers,3,4,1.976,3.0,0.512,0.0,0.008,0.0,1.462,1.0,1.088,2.0,0.129,0.0,4,0,0,1,2,0
-2024020057,2,False,2024-10-16,PIT,Pittsburgh Penguins,True,BUF,Buffalo Sabres,PIT,Pittsburgh Penguins,5,6,3.449,2.0,0.806,1.0,0.0,0.0,2.388,5.0,0.0,0.0,0.241,0.0,3,2,1,5,0,0
-2024020058,2,False,2024-10-16,TOR,Toronto Maple Leafs,True,LAK,Los Angeles Kings,TOR,Toronto Maple Leafs,2,6,0.993,4.0,0.741,2.0,0.142,0.0,2.961,2.0,0.09699999999999999,0.0,0.016,0.0,4,2,0,2,0,0
-2024020059,2,False,2024-10-16,COL,Colorado Avalanche,True,BOS,Boston Bruins,COL,Colorado Avalanche,5,3,1.812,0.0,0.217,3.0,0.013,0.0,1.187,2.0,0.9299999999999999,2.0,0.0,0.0,0,3,0,3,2,0
-2024020060,2,False,2024-10-16,ANA,Anaheim Ducks,True,UTA,Arizona Coyotes,ANA,Anaheim Ducks,4,5,2.54,4.0,0.155,0.0,0.045,0.0,2.097,3.0,0.7410000000000001,1.0,0.0,0.0,5,0,0,3,1,0
-2024020061,2,False,2024-10-17,MTL,Montréal Canadiens,True,LAK,Los Angeles Kings,MTL,Montréal Canadiens,4,1,1.665,1.0,0.29400000000000004,0.0,0.018,0.0,2.078,3.0,0.013,0.0,0.032,0.0,1,0,0,3,0,1
-2024020062,2,False,2024-10-17,OTT,Ottawa Senators,True,NJD,New Jersey Devils,OTT,Ottawa Senators,3,1,1.652,0.0,0.112,0.0,0.377,0.0,1.869,2.0,0.133,0.0,0.20900000000000002,1.0,0,1,0,2,0,1
-2024020064,2,False,2024-10-17,TBL,Tampa Bay Lightning,True,VGK,Vegas Golden Knights,TBL,Tampa Bay Lightning,3,4,2.431,4.0,0.21,0.0,0.0,0.0,1.273,2.0,0.5690000000000001,1.0,0.023,0.0,4,0,0,2,1,0
-2024020065,2,False,2024-10-17,FLA,Florida Panthers,True,VAN,Vancouver Canucks,FLA,Florida Panthers,3,2,2.39,1.0,0.097,1.0,0.0,0.0,2.3810000000000002,2.0,0.013999999999999999,0.0,0.0,0.0,1,1,0,3,0,0
-2024020066,2,False,2024-10-17,WSH,Washington Capitals,True,DAL,Dallas Stars,WSH,Washington Capitals,2,3,2.133,3.0,0.96,0.0,0.34,0.0,1.6520000000000001,1.0,0.052000000000000005,0.0,0.111,1.0,3,0,0,1,0,1
-2024020067,2,False,2024-10-17,CBJ,Columbus Blue Jackets,True,BUF,Buffalo Sabres,CBJ,Columbus Blue Jackets,4,6,1.695,5.0,0.297,1.0,0.0,0.0,1.711,3.0,0.06799999999999999,0.0,0.0,0.0,5,1,0,4,0,0
-2024020063,2,False,2024-10-17,DET,Detroit Red Wings,True,NYR,New York Rangers,DET,Detroit Red Wings,5,2,2.041,1.0,1.297,1.0,0.0,0.0,2.311,2.0,1.51,3.0,0.0,0.0,1,1,0,2,3,0
-2024020068,2,False,2024-10-17,STL,St. Louis Blues,True,NYI,New York Islanders,STL,St. Louis Blues,0,1,2.068,0.0,0.07,0.0,0.028,0.0,2.145,0.0,0.048,0.0,0.019,0.0,1,0,0,0,0,0
-2024020069,2,False,2024-10-17,NSH,Nashville Predators,True,EDM,Edmonton Oilers,NSH,Nashville Predators,4,2,1.427,1.0,0.515,1.0,0.063,0.0,2.561,3.0,0.548,0.0,0.0,0.0,1,1,0,4,0,0
-2024020070,2,False,2024-10-17,CHI,Chicago Blackhawks,True,SJS,San Jose Sharks,CHI,Chicago Blackhawks,2,4,1.682,1.0,0.8009999999999999,2.0,0.0,0.0,1.211,1.0,0.336,0.0,0.136,0.0,2,2,0,2,0,0
-2024020071,2,False,2024-10-17,SEA,Seattle Kraken,True,PHI,Philadelphia Flyers,SEA,Seattle Kraken,4,6,2.142,5.0,0.726,1.0,0.0,0.0,1.407,3.0,0.35,1.0,0.15,0.0,5,1,0,3,1,0
-2024020072,2,False,2024-10-18,PIT,Pittsburgh Penguins,True,CAR,Carolina Hurricanes,PIT,Pittsburgh Penguins,4,1,0.984,1.0,2.2279999999999998,0.0,0.0,0.0,3.207,2.0,2.5519999999999996,2.0,0.318,0.0,1,0,0,2,2,0
-2024020073,2,False,2024-10-18,WPG,Winnipeg Jets,True,SJS,San Jose Sharks,WPG,Winnipeg Jets,3,8,1.694,4.0,1.074,3.0,0.0,0.0,1.3699999999999999,2.0,0.757,1.0,0.017,0.0,4,4,0,2,1,0
-2024020074,2,False,2024-10-18,COL,Colorado Avalanche,True,ANA,Anaheim Ducks,COL,Colorado Avalanche,3,4,3.456,2.0,1.271,0.0,0.076,0.0,1.452,2.0,0.394,0.0,0.032,0.0,3,1,0,3,0,0
-2024020075,2,False,2024-10-19,OTT,Ottawa Senators,True,TBL,Tampa Bay Lightning,OTT,Ottawa Senators,4,5,1.217,2.0,0.638,1.0,0.144,1.0,1.243,4.0,0.34800000000000003,0.0,0.053,0.0,2,2,1,4,0,0
-2024020076,2,False,2024-10-19,NSH,Nashville Predators,True,DET,Detroit Red Wings,NSH,Nashville Predators,5,2,2.498,1.0,0.152,1.0,0.129,0.0,1.942,2.0,0.917,1.0,0.0,0.0,1,1,0,4,1,0
-2024020077,2,False,2024-10-19,DAL,Dallas Stars,True,EDM,Edmonton Oilers,DAL,Dallas Stars,1,4,1.8439999999999999,2.0,0.087,1.0,0.0,0.0,2.5919999999999996,0.0,0.111,0.0,0.0,0.0,3,1,0,1,0,0
-2024020078,2,False,2024-10-19,FLA,Florida Panthers,True,VGK,Vegas Golden Knights,FLA,Florida Panthers,3,4,2.6350000000000002,2.0,0.7809999999999999,1.0,0.0,0.0,2.454,3.0,0.028,0.0,0.0,0.0,3,1,0,3,0,0
-2024020079,2,False,2024-10-19,TOR,Toronto Maple Leafs,True,NYR,New York Rangers,TOR,Toronto Maple Leafs,4,1,2.7199999999999998,1.0,0.685,0.0,0.0,0.0,2.33,1.0,0.044,0.0,0.07,0.0,1,0,0,4,0,0
-2024020080,2,False,2024-10-19,NJD,New Jersey Devils,True,WSH,Washington Capitals,NJD,New Jersey Devils,6,5,2.262,4.0,0.602,1.0,0.0,0.0,2.269,5.0,0.044,0.0,0.044,0.0,4,1,0,6,0,0
-2024020081,2,False,2024-10-19,NYI,New York Islanders,True,MTL,Montréal Canadiens,NYI,New York Islanders,3,4,1.9100000000000001,2.0,0.854,1.0,0.0,0.0,2.316,2.0,0.648,1.0,0.07999999999999999,0.0,2,1,0,2,1,0
-2024020082,2,False,2024-10-19,PHI,Philadelphia Flyers,True,VAN,Vancouver Canucks,PHI,Philadelphia Flyers,3,0,2.012,0.0,0.617,0.0,0.268,0.0,1.548,3.0,0.007,0.0,0.077,0.0,0,0,0,3,0,0
-2024020083,2,False,2024-10-19,CBJ,Columbus Blue Jackets,True,MIN,Minnesota Wild,CBJ,Columbus Blue Jackets,3,1,0.799,1.0,1.186,0.0,0.03,0.0,2.4939999999999998,2.0,0.09,0.0,0.029,0.0,1,0,0,2,1,0
-2024020084,2,False,2024-10-19,STL,St. Louis Blues,True,CAR,Carolina Hurricanes,STL,St. Louis Blues,3,4,1.505,4.0,0.262,0.0,0.021,0.0,1.78,2.0,0.41600000000000004,1.0,0.026,0.0,4,0,0,2,1,0
-2024020085,2,False,2024-10-19,CHI,Chicago Blackhawks,True,BUF,Buffalo Sabres,CHI,Chicago Blackhawks,4,2,2.144,2.0,0.19,0.0,0.213,0.0,0.8089999999999999,3.0,1.1380000000000001,0.0,0.0,0.0,2,0,0,4,0,0
-2024020086,2,False,2024-10-19,UTA,Arizona Coyotes,True,BOS,Boston Bruins,UTA,Arizona Coyotes,1,2,1.296,1.0,0.78,0.0,0.047,0.0,1.5,1.0,0.133,0.0,0.022,0.0,2,0,0,1,0,0
-2024020087,2,False,2024-10-19,SEA,Seattle Kraken,True,CGY,Calgary Flames,SEA,Seattle Kraken,1,2,1.453,0.0,0.5329999999999999,0.0,0.0,0.0,2.464,0.0,0.44,1.0,0.039,0.0,1,1,0,0,1,0
-2024020088,2,False,2024-10-20,WPG,Winnipeg Jets,True,PIT,Pittsburgh Penguins,WPG,Winnipeg Jets,3,6,3.5700000000000003,3.0,0.0,0.0,0.0,0.0,3.599,2.0,0.633,1.0,0.0,0.0,6,0,0,2,1,0
-2024020089,2,False,2024-10-20,SJS,San Jose Sharks,True,COL,Colorado Avalanche,SJS,San Jose Sharks,4,1,1.208,0.0,1.102,1.0,0.0,0.0,1.462,2.0,1.0,1.0,0.0,0.0,0,1,0,3,1,0
-2024020090,2,False,2024-10-20,ANA,Anaheim Ducks,True,LAK,Los Angeles Kings,ANA,Anaheim Ducks,4,1,1.4180000000000001,1.0,0.21200000000000002,0.0,0.0,0.0,2.099,2.0,0.072,0.0,0.14200000000000002,0.0,1,0,0,4,0,0
-2024020091,2,False,2024-10-21,TOR,Toronto Maple Leafs,True,TBL,Tampa Bay Lightning,TOR,Toronto Maple Leafs,2,5,2.044,4.0,1.273,1.0,0.0,0.0,2.282,1.0,0.654,1.0,0.253,0.0,4,1,0,1,1,0
-2024020092,2,False,2024-10-22,PHI,Philadelphia Flyers,True,WSH,Washington Capitals,PHI,Philadelphia Flyers,4,1,1.0050000000000001,0.0,0.124,0.0,0.494,0.0,1.365,1.0,0.091,0.0,0.259,2.0,1,0,0,2,0,2
-2024020093,2,False,2024-10-22,FLA,Florida Panthers,True,MIN,Minnesota Wild,FLA,Florida Panthers,5,1,2.001,1.0,,0.0,0.0,0.0,1.74,4.0,0.685,1.0,,0.0,1,0,0,4,1,0
-2024020094,2,False,2024-10-22,NJD,New Jersey Devils,True,TBL,Tampa Bay Lightning,NJD,New Jersey Devils,8,5,2.346,3.0,0.875,2.0,0.0,0.0,2.606,5.0,1.61,2.0,0.007,1.0,3,2,0,5,2,1
-2024020095,2,False,2024-10-22,BUF,Buffalo Sabres,True,DAL,Dallas Stars,BUF,Buffalo Sabres,2,4,1.9420000000000002,3.0,0.428,0.0,0.012,0.0,2.234,0.0,0.058,0.0,0.0,0.0,4,0,0,2,0,0
-2024020096,2,False,2024-10-22,MTL,Montréal Canadiens,True,NYR,New York Rangers,MTL,Montréal Canadiens,7,2,1.69,1.0,0.313,1.0,0.0,0.0,3.951,6.0,1.219,1.0,0.5660000000000001,0.0,1,1,0,6,1,0
-2024020097,2,False,2024-10-22,CBJ,Columbus Blue Jackets,True,TOR,Toronto Maple Leafs,CBJ,Columbus Blue Jackets,2,6,2.552,6.0,0.481,0.0,0.093,0.0,1.869,2.0,0.057,0.0,0.10800000000000001,0.0,6,0,0,2,0,0
-2024020098,2,False,2024-10-22,NYI,New York Islanders,True,DET,Detroit Red Wings,NYI,New York Islanders,1,0,1.2510000000000001,0.0,1.1400000000000001,0.0,0.007,0.0,0.8039999999999999,1.0,0.017,0.0,0.0,0.0,0,0,0,1,0,0
-2024020099,2,False,2024-10-22,STL,St. Louis Blues,True,WPG,Winnipeg Jets,STL,St. Louis Blues,3,2,2.5210000000000004,2.0,0.14100000000000001,0.0,0.058,0.0,1.752,2.0,0.613,1.0,0.035,0.0,2,0,0,2,1,0
-2024020100,2,False,2024-10-22,CHI,Chicago Blackhawks,True,VAN,Vancouver Canucks,CHI,Chicago Blackhawks,6,3,1.4989999999999999,2.0,0.8270000000000001,0.0,0.0,0.0,1.95,4.0,1.434,2.0,0.038,0.0,2,1,0,4,2,0
-2024020106,2,False,2024-10-22,SEA,Seattle Kraken,True,COL,Colorado Avalanche,SEA,Seattle Kraken,3,2,2.562,1.0,,0.0,0.045,0.0,2.7359999999999998,2.0,0.42500000000000004,1.0,,0.0,1,1,0,2,1,0
-2024020101,2,False,2024-10-22,NSH,Nashville Predators,True,BOS,Boston Bruins,NSH,Nashville Predators,0,4,2.689,2.0,1.315,1.0,0.0,0.0,1.444,0.0,0.162,0.0,0.196,0.0,3,1,0,0,0,0
-2024020103,2,False,2024-10-22,EDM,Edmonton Oilers,True,CAR,Carolina Hurricanes,EDM,Edmonton Oilers,3,2,2.4000000000000004,1.0,1.197,1.0,0.0,0.0,2.9699999999999998,1.0,0.604,1.0,0.307,0.0,1,1,0,2,1,0
-2024020104,2,False,2024-10-22,UTA,Arizona Coyotes,True,OTT,Ottawa Senators,UTA,Arizona Coyotes,4,0,3.505,0.0,0.532,0.0,0.0,0.0,1.834,1.0,0.629,1.0,0.025,0.0,0,0,0,3,1,0
-2024020102,2,False,2024-10-22,CGY,Calgary Flames,True,PIT,Pittsburgh Penguins,CGY,Calgary Flames,3,4,1.1320000000000001,2.0,1.02,0.0,0.28800000000000003,0.0,2.582,2.0,0.5920000000000001,1.0,0.015,0.0,3,0,0,2,1,0
-2024020105,2,False,2024-10-22,ANA,Anaheim Ducks,True,SJS,San Jose Sharks,ANA,Anaheim Ducks,1,3,2.887,0.0,1.217,2.0,0.0,0.0,1.935,0.0,0.31899999999999995,1.0,0.132,0.0,1,2,0,0,1,0
-2024020107,2,False,2024-10-22,VGK,Vegas Golden Knights,True,LAK,Los Angeles Kings,VGK,Vegas Golden Knights,1,6,2.484,4.0,0.77,2.0,0.0,0.0,3.324,1.0,0.396,0.0,0.0,0.0,4,2,0,1,0,0
-2024020108,2,False,2024-10-23,WSH,Washington Capitals,True,PHI,Philadelphia Flyers,WSH,Washington Capitals,3,6,1.8820000000000001,4.0,0.774,0.0,0.0,0.0,1.824,1.0,0.40900000000000003,1.0,0.043,0.0,6,0,0,1,2,0
+2024020001,2,True,2024-10-04,BUF,Buffalo Sabres,True,NJD,New Jersey Devils,BUF,Buffalo Sabres,4,1,2.378,1.0,0.917,0.0,0.0,0.0,1.58,3.0,0.027,0.0,0.191,0.0,1.0,0.0,0.0,4.0,0.0,0.0
+2024020002,2,True,2024-10-05,NJD,New Jersey Devils,True,BUF,Buffalo Sabres,NJD,New Jersey Devils,1,3,2.665,2.0,0.846,1.0,0.104,0.0,1.327,1.0,0.01,0.0,0.053,0.0,2.0,1.0,0.0,1.0,0.0,0.0
+2024020003,2,False,2024-10-08,SEA,Seattle Kraken,True,STL,St. Louis Blues,SEA,Seattle Kraken,3,2,3.178,2.0,0.291,0.0,0.0,0.0,1.783,2.0,0.726,1.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0
+2024020004,2,False,2024-10-08,FLA,Florida Panthers,True,BOS,Boston Bruins,FLA,Florida Panthers,4,6,4.107,5.0,1.08,0.0,0.048,1.0,2.475,2.0,1.166,1.0,0.112,1.0,5.0,0.0,1.0,2.0,1.0,1.0
+2024020005,2,False,2024-10-08,UTA,Arizona Coyotes,True,CHI,Chicago Blackhawks,UTA,Arizona Coyotes,2,5,2.6,4.0,0.154,0.0,0.219,0.0,2.625,2.0,0.0269999999999999,0.0,0.0,0.0,5.0,0.0,0.0,2.0,0.0,0.0
+2024020006,2,False,2024-10-09,MTL,Montréal Canadiens,True,TOR,Toronto Maple Leafs,MTL,Montréal Canadiens,0,1,1.417,0.0,1.19,1.0,0.054,0.0,3.668,0.0,0.079,0.0,0.113,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2024020007,2,False,2024-10-09,PIT,Pittsburgh Penguins,True,NYR,New York Rangers,PIT,Pittsburgh Penguins,6,0,2.617,0.0,0.576,0.0,0.0,0.0,3.909,5.0,0.023,0.0,0.261,1.0,0.0,0.0,0.0,5.0,0.0,1.0
+2024020008,2,False,2024-10-09,EDM,Edmonton Oilers,True,WPG,Winnipeg Jets,EDM,Edmonton Oilers,6,0,2.265,0.0,0.252,0.0,0.182,0.0,1.386,4.0,1.043,2.0,0.01,0.0,0.0,0.0,0.0,4.0,2.0,0.0
+2024020009,2,False,2024-10-09,VAN,Vancouver Canucks,True,CGY,Calgary Flames,VAN,Vancouver Canucks,6,5,2.111,2.0,0.424,2.0,0.005,0.0,1.166,3.0,0.417,1.0,0.17,1.0,3.0,2.0,0.0,4.0,1.0,1.0
+2024020010,2,False,2024-10-09,VGK,Vegas Golden Knights,True,COL,Colorado Avalanche,VGK,Vegas Golden Knights,4,8,1.507,5.0,0.525,2.0,0.0,0.0,1.987,3.0,0.615,1.0,0.0,0.0,6.0,2.0,0.0,3.0,1.0,0.0
+2024020011,2,False,2024-10-10,BOS,Boston Bruins,True,MTL,Montréal Canadiens,BOS,Boston Bruins,4,6,2.197,5.0,0.755,1.0,0.088,0.0,1.977,3.0,0.817,1.0,0.112,0.0,5.0,1.0,0.0,3.0,1.0,0.0
+2024020012,2,False,2024-10-10,BUF,Buffalo Sabres,True,LAK,Los Angeles Kings,BUF,Buffalo Sabres,3,1,1.705,0.0,1.209,0.0,0.773,1.0,1.158,1.0,0.573,1.0,0.062,0.0,0.0,0.0,1.0,2.0,1.0,0.0
+2024020013,2,False,2024-10-10,OTT,Ottawa Senators,True,FLA,Florida Panthers,OTT,Ottawa Senators,1,3,1.104,1.0,0.848,1.0,0.05,0.0,1.887,1.0,0.0689999999999999,0.0,0.015,0.0,2.0,1.0,0.0,1.0,0.0,0.0
+2024020015,2,False,2024-10-10,NJD,New Jersey Devils,True,TOR,Toronto Maple Leafs,NJD,New Jersey Devils,4,2,1.315,1.0,0.756,1.0,0.012,0.0,1.699,4.0,0.0209999999999999,0.0,0.044,0.0,1.0,1.0,0.0,4.0,0.0,0.0
+2024020016,2,False,2024-10-10,NYI,New York Islanders,True,UTA,Arizona Coyotes,NYI,New York Islanders,5,4,1.076,2.0,1.1,1.0,0.365,1.0,2.182,2.0,1.212,2.0,0.0,0.0,2.0,1.0,1.0,3.0,2.0,0.0
+2024020014,2,False,2024-10-10,DET,Detroit Red Wings,True,PIT,Pittsburgh Penguins,DET,Detroit Red Wings,6,3,1.447,2.0,0.692,0.0,0.0,0.0,2.612,5.0,0.538,1.0,0.0,0.0,2.0,1.0,0.0,5.0,1.0,0.0
+2024020017,2,False,2024-10-10,NSH,Nashville Predators,True,DAL,Dallas Stars,NSH,Nashville Predators,4,3,1.737,1.0,1.28,1.0,0.013,0.0,1.413,3.0,0.511,1.0,0.023,0.0,2.0,1.0,0.0,3.0,1.0,0.0
+2024020018,2,False,2024-10-10,MIN,Minnesota Wild,True,CBJ,Columbus Blue Jackets,MIN,Minnesota Wild,2,3,1.54,2.0,0.625,1.0,0.0,0.0,1.411,1.0,0.627,1.0,0.061,0.0,2.0,1.0,0.0,1.0,1.0,0.0
+2024020019,2,False,2024-10-10,SJS,San Jose Sharks,True,STL,St. Louis Blues,SJS,San Jose Sharks,5,4,1.543,2.0,0.438,1.0,0.089,1.0,2.981,3.0,0.071,0.0,0.028,0.0,2.0,1.0,1.0,5.0,0.0,0.0
+2024020020,2,False,2024-10-11,CAR,Carolina Hurricanes,True,TBL,Tampa Bay Lightning,CAR,Carolina Hurricanes,4,1,2.671,1.0,0.137,0.0,0.0,0.0,1.38,0.0,1.143,2.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,0.0
+2024020021,2,False,2024-10-11,WPG,Winnipeg Jets,True,CHI,Chicago Blackhawks,WPG,Winnipeg Jets,1,2,1.954,0.0,0.432,0.0,0.0,0.0,1.663,1.0,0.116,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0
+2024020022,2,False,2024-10-11,VAN,Vancouver Canucks,True,PHI,Philadelphia Flyers,VAN,Vancouver Canucks,3,2,1.497,2.0,1.303,0.0,0.011,0.0,0.959,1.0,1.016,1.0,0.118,0.0,2.0,0.0,0.0,1.0,1.0,0.0
+2024020023,2,False,2024-10-11,VGK,Vegas Golden Knights,True,STL,St. Louis Blues,VGK,Vegas Golden Knights,3,4,2.38,4.0,0.756,0.0,0.0,0.0,1.511,2.0,0.568,1.0,0.0,0.0,4.0,0.0,0.0,2.0,1.0,0.0
+2024020024,2,False,2024-10-12,BOS,Boston Bruins,True,LAK,Los Angeles Kings,BOS,Boston Bruins,1,2,0.768,0.0,0.212,0.0,0.031,0.0,1.15,1.0,0.131,0.0,0.617,0.0,2.0,0.0,0.0,1.0,0.0,0.0
+2024020025,2,False,2024-10-12,BUF,Buffalo Sabres,True,FLA,Florida Panthers,BUF,Buffalo Sabres,2,5,2.828,4.0,0.251,0.0,0.022,0.0,0.918,1.0,0.92,1.0,0.089,0.0,5.0,0.0,0.0,1.0,1.0,0.0
+2024020026,2,False,2024-10-12,TOR,Toronto Maple Leafs,True,PIT,Pittsburgh Penguins,TOR,Toronto Maple Leafs,2,4,1.428,3.0,0.447,0.0,0.0,0.0,0.962,1.0,0.541,1.0,0.193,0.0,4.0,0.0,0.0,1.0,1.0,0.0
+2024020027,2,False,2024-10-12,MTL,Montréal Canadiens,True,OTT,Ottawa Senators,MTL,Montréal Canadiens,1,4,1.621,3.0,0.917,1.0,0.018,0.0,1.974,1.0,0.048,0.0,0.016,0.0,3.0,1.0,0.0,1.0,0.0,0.0
+2024020028,2,False,2024-10-12,DET,Detroit Red Wings,True,NSH,Nashville Predators,DET,Detroit Red Wings,0,3,1.762,2.0,0.713,0.0,0.041,0.0,2.377,0.0,0.173,0.0,0.011,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+2024020030,2,False,2024-10-12,NYR,New York Rangers,True,UTA,Arizona Coyotes,NYR,New York Rangers,6,5,3.026,4.0,0.43,1.0,0.019,0.0,1.687,3.0,0.835,1.0,0.0,0.0,4.0,1.0,0.0,5.0,1.0,0.0
+2024020031,2,False,2024-10-12,WSH,Washington Capitals,True,NJD,New Jersey Devils,WSH,Washington Capitals,5,3,1.419,2.0,0.151,1.0,0.183,0.0,1.918,4.0,0.076,0.0,0.0,0.0,2.0,1.0,0.0,5.0,0.0,0.0
+2024020032,2,False,2024-10-12,DAL,Dallas Stars,True,NYI,New York Islanders,DAL,Dallas Stars,0,3,1.343,2.0,0.464,0.0,0.0,0.0,2.798,0.0,0.014,0.0,0.15,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+2024020033,2,False,2024-10-12,MIN,Minnesota Wild,True,SEA,Seattle Kraken,MIN,Minnesota Wild,5,4,1.76,3.0,0.466,1.0,0.0,0.0,1.205,2.0,0.777,1.0,0.0,0.0,3.0,1.0,0.0,3.0,1.0,0.0
+2024020034,2,False,2024-10-12,COL,Colorado Avalanche,True,CBJ,Columbus Blue Jackets,COL,Colorado Avalanche,6,4,2.497,1.0,1.051,2.0,0.0,0.0,1.405,5.0,0.177,0.0,0.108,0.0,2.0,2.0,0.0,5.0,1.0,0.0
+2024020035,2,False,2024-10-12,CGY,Calgary Flames,True,PHI,Philadelphia Flyers,CGY,Calgary Flames,3,6,2.123,3.0,0.867,0.0,0.077,0.0,1.794,1.0,0.125,0.0,0.208,1.0,4.0,2.0,0.0,1.0,1.0,1.0
+2024020036,2,False,2024-10-12,EDM,Edmonton Oilers,True,CHI,Chicago Blackhawks,EDM,Edmonton Oilers,5,2,2.831,1.0,0.477,1.0,0.0,0.0,0.854,2.0,1.377,3.0,0.0,0.0,1.0,1.0,0.0,2.0,3.0,0.0
+2024020037,2,False,2024-10-12,SJS,San Jose Sharks,True,ANA,Anaheim Ducks,SJS,San Jose Sharks,2,0,2.872,0.0,0.507,0.0,0.0,0.0,1.613,1.0,0.071,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+2024020038,2,False,2024-10-13,WPG,Winnipeg Jets,True,MIN,Minnesota Wild,WPG,Winnipeg Jets,1,2,1.879,0.0,0.346,0.0,0.0,0.0,1.701,1.0,0.048,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0
+2024020039,2,False,2024-10-13,DAL,Dallas Stars,True,SEA,Seattle Kraken,DAL,Dallas Stars,0,2,2.038,2.0,0.661,0.0,0.007,0.0,1.486,0.0,0.565,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+2024020040,2,False,2024-10-13,EDM,Edmonton Oilers,True,CGY,Calgary Flames,EDM,Edmonton Oilers,4,1,2.273,1.0,0.0,0.0,0.099,0.0,2.723,3.0,0.038,0.0,0.01,0.0,1.0,0.0,0.0,4.0,0.0,0.0
+2024020041,2,False,2024-10-13,VGK,Vegas Golden Knights,True,ANA,Anaheim Ducks,VGK,Vegas Golden Knights,1,3,2.337,2.0,1.803,1.0,0.143,0.0,2.791,1.0,0.016,0.0,0.095,0.0,2.0,1.0,0.0,1.0,0.0,0.0
+2024020042,2,False,2024-10-14,BOS,Boston Bruins,True,FLA,Florida Panthers,BOS,Boston Bruins,4,3,1.074,3.0,0.436,0.0,0.0,0.0,1.392,1.0,1.037,1.0,0.19,1.0,3.0,0.0,0.0,2.0,1.0,1.0
+2024020043,2,False,2024-10-14,OTT,Ottawa Senators,True,LAK,Los Angeles Kings,OTT,Ottawa Senators,7,8,2.146,3.0,1.276,4.0,0.005,0.0,1.497,4.0,1.774,3.0,0.01,0.0,4.0,4.0,0.0,4.0,3.0,0.0
+2024020044,2,False,2024-10-14,NJD,New Jersey Devils,True,UTA,Arizona Coyotes,NJD,New Jersey Devils,0,3,1.82,1.0,2.006,2.0,0.256,0.0,1.41,0.0,0.121,0.0,0.074,0.0,1.0,2.0,0.0,0.0,0.0,0.0
+2024020045,2,False,2024-10-14,NYR,New York Rangers,True,DET,Detroit Red Wings,NYR,New York Rangers,1,4,1.607,2.0,0.804,1.0,0.133,0.0,2.021,1.0,0.222,0.0,0.066,0.0,3.0,1.0,0.0,1.0,0.0,0.0
+2024020046,2,False,2024-10-14,MTL,Montréal Canadiens,True,PIT,Pittsburgh Penguins,MTL,Montréal Canadiens,6,3,2.138,2.0,0.366,1.0,0.127,0.0,4.071,5.0,0.01,0.0,0.0,0.0,2.0,1.0,0.0,6.0,0.0,0.0
+2024020047,2,False,2024-10-14,COL,Colorado Avalanche,True,NYI,New York Islanders,COL,Colorado Avalanche,6,2,2.499,2.0,0.027,0.0,0.073,0.0,2.46,4.0,0.0,0.0,0.274,1.0,2.0,0.0,0.0,5.0,0.0,1.0
+2024020048,2,False,2024-10-15,TBL,Tampa Bay Lightning,True,VAN,Vancouver Canucks,TBL,Tampa Bay Lightning,1,4,2.963,3.0,0.219,0.0,0.0,0.0,1.894,0.0,0.885,1.0,0.053,0.0,4.0,0.0,0.0,0.0,1.0,0.0
+2024020049,2,False,2024-10-15,WSH,Washington Capitals,True,VGK,Vegas Golden Knights,WSH,Washington Capitals,2,4,3.056,3.0,0.854,1.0,0.0,0.0,1.408,1.0,0.626,1.0,0.151,0.0,3.0,1.0,0.0,1.0,1.0,0.0
+2024020050,2,False,2024-10-15,CAR,Carolina Hurricanes,True,NJD,New Jersey Devils,CAR,Carolina Hurricanes,2,4,3.531,3.0,0.042,0.0,0.0,0.0,2.507,1.0,0.02,0.0,0.0,0.0,4.0,0.0,0.0,1.0,1.0,0.0
+2024020051,2,False,2024-10-15,CBJ,Columbus Blue Jackets,True,FLA,Florida Panthers,CBJ,Columbus Blue Jackets,4,3,2.122,1.0,0.262,0.0,0.15,1.0,1.06,4.0,0.073,0.0,0.0,0.0,2.0,0.0,1.0,4.0,0.0,0.0
+2024020052,2,False,2024-10-15,STL,St. Louis Blues,True,MIN,Minnesota Wild,STL,St. Louis Blues,4,1,2.063,1.0,0.761,0.0,0.136,0.0,1.666,1.0,0.753,1.0,0.271,1.0,1.0,0.0,0.0,1.0,2.0,1.0
+2024020053,2,False,2024-10-15,NSH,Nashville Predators,True,SEA,Seattle Kraken,NSH,Nashville Predators,7,3,1.238,2.0,0.405,0.0,0.251,0.0,1.64,6.0,0.079,0.0,0.026,0.0,3.0,0.0,0.0,7.0,0.0,0.0
+2024020054,2,False,2024-10-15,DAL,Dallas Stars,True,SJS,San Jose Sharks,DAL,Dallas Stars,2,3,2.996,2.0,0.993,0.0,0.0,0.0,2.217,2.0,0.039,0.0,0.025,0.0,2.0,0.0,0.0,2.0,0.0,0.0
+2024020055,2,False,2024-10-15,CGY,Calgary Flames,True,CHI,Chicago Blackhawks,CGY,Calgary Flames,1,3,1.683,1.0,0.347,0.0,0.0559999999999999,0.0,2.026,1.0,0.07,0.0,0.078,0.0,2.0,1.0,0.0,1.0,0.0,0.0
+2024020056,2,False,2024-10-15,EDM,Edmonton Oilers,True,PHI,Philadelphia Flyers,EDM,Edmonton Oilers,3,4,1.976,3.0,0.512,0.0,0.008,0.0,1.462,1.0,1.088,2.0,0.129,0.0,4.0,0.0,0.0,1.0,2.0,0.0
+2024020057,2,False,2024-10-16,PIT,Pittsburgh Penguins,True,BUF,Buffalo Sabres,PIT,Pittsburgh Penguins,5,6,3.449,2.0,0.806,1.0,0.0,0.0,2.388,5.0,0.0,0.0,0.241,0.0,3.0,2.0,1.0,5.0,0.0,0.0
+2024020058,2,False,2024-10-16,TOR,Toronto Maple Leafs,True,LAK,Los Angeles Kings,TOR,Toronto Maple Leafs,2,6,0.993,4.0,0.741,2.0,0.142,0.0,2.961,2.0,0.0969999999999999,0.0,0.016,0.0,4.0,2.0,0.0,2.0,0.0,0.0
+2024020059,2,False,2024-10-16,COL,Colorado Avalanche,True,BOS,Boston Bruins,COL,Colorado Avalanche,5,3,1.812,0.0,0.217,3.0,0.013,0.0,1.187,2.0,0.93,2.0,0.0,0.0,0.0,3.0,0.0,3.0,2.0,0.0
+2024020060,2,False,2024-10-16,ANA,Anaheim Ducks,True,UTA,Arizona Coyotes,ANA,Anaheim Ducks,4,5,2.54,4.0,0.155,0.0,0.045,0.0,2.097,3.0,0.741,1.0,0.0,0.0,5.0,0.0,0.0,3.0,1.0,0.0
+2024020061,2,False,2024-10-17,MTL,Montréal Canadiens,True,LAK,Los Angeles Kings,MTL,Montréal Canadiens,4,1,1.665,1.0,0.294,0.0,0.018,0.0,2.078,3.0,0.013,0.0,0.032,0.0,1.0,0.0,0.0,3.0,0.0,1.0
+2024020062,2,False,2024-10-17,OTT,Ottawa Senators,True,NJD,New Jersey Devils,OTT,Ottawa Senators,3,1,1.652,0.0,0.112,0.0,0.377,0.0,1.869,2.0,0.133,0.0,0.209,1.0,0.0,1.0,0.0,2.0,0.0,1.0
+2024020064,2,False,2024-10-17,TBL,Tampa Bay Lightning,True,VGK,Vegas Golden Knights,TBL,Tampa Bay Lightning,3,4,2.431,4.0,0.21,0.0,0.0,0.0,1.273,2.0,0.569,1.0,0.023,0.0,4.0,0.0,0.0,2.0,1.0,0.0
+2024020065,2,False,2024-10-17,FLA,Florida Panthers,True,VAN,Vancouver Canucks,FLA,Florida Panthers,3,2,2.39,1.0,0.097,1.0,0.0,0.0,2.381,2.0,0.0139999999999999,0.0,0.0,0.0,1.0,1.0,0.0,3.0,0.0,0.0
+2024020066,2,False,2024-10-17,WSH,Washington Capitals,True,DAL,Dallas Stars,WSH,Washington Capitals,2,3,2.133,3.0,0.96,0.0,0.34,0.0,1.652,1.0,0.052,0.0,0.111,1.0,3.0,0.0,0.0,1.0,0.0,1.0
+2024020067,2,False,2024-10-17,CBJ,Columbus Blue Jackets,True,BUF,Buffalo Sabres,CBJ,Columbus Blue Jackets,4,6,1.695,5.0,0.297,1.0,0.0,0.0,1.711,3.0,0.0679999999999999,0.0,0.0,0.0,5.0,1.0,0.0,4.0,0.0,0.0
+2024020063,2,False,2024-10-17,DET,Detroit Red Wings,True,NYR,New York Rangers,DET,Detroit Red Wings,5,2,2.041,1.0,1.297,1.0,0.0,0.0,2.311,2.0,1.51,3.0,0.0,0.0,1.0,1.0,0.0,2.0,3.0,0.0
+2024020068,2,False,2024-10-17,STL,St. Louis Blues,True,NYI,New York Islanders,STL,St. Louis Blues,0,1,2.068,0.0,0.07,0.0,0.028,0.0,2.145,0.0,0.048,0.0,0.019,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+2024020069,2,False,2024-10-17,NSH,Nashville Predators,True,EDM,Edmonton Oilers,NSH,Nashville Predators,4,2,1.427,1.0,0.515,1.0,0.063,0.0,2.561,3.0,0.548,0.0,0.0,0.0,1.0,1.0,0.0,4.0,0.0,0.0
+2024020070,2,False,2024-10-17,CHI,Chicago Blackhawks,True,SJS,San Jose Sharks,CHI,Chicago Blackhawks,2,4,1.682,1.0,0.801,2.0,0.0,0.0,1.211,1.0,0.336,0.0,0.136,0.0,2.0,2.0,0.0,2.0,0.0,0.0
+2024020071,2,False,2024-10-17,SEA,Seattle Kraken,True,PHI,Philadelphia Flyers,SEA,Seattle Kraken,4,6,2.142,5.0,0.726,1.0,0.0,0.0,1.407,3.0,0.35,1.0,0.15,0.0,5.0,1.0,0.0,3.0,1.0,0.0
+2024020072,2,False,2024-10-18,PIT,Pittsburgh Penguins,True,CAR,Carolina Hurricanes,PIT,Pittsburgh Penguins,4,1,0.984,1.0,2.228,0.0,0.0,0.0,3.207,2.0,2.552,2.0,0.318,0.0,1.0,0.0,0.0,2.0,2.0,0.0
+2024020073,2,False,2024-10-18,WPG,Winnipeg Jets,True,SJS,San Jose Sharks,WPG,Winnipeg Jets,3,8,1.694,4.0,1.074,3.0,0.0,0.0,1.37,2.0,0.757,1.0,0.017,0.0,4.0,4.0,0.0,2.0,1.0,0.0
+2024020074,2,False,2024-10-18,COL,Colorado Avalanche,True,ANA,Anaheim Ducks,COL,Colorado Avalanche,3,4,3.456,2.0,1.271,0.0,0.076,0.0,1.452,2.0,0.394,0.0,0.032,0.0,3.0,1.0,0.0,3.0,0.0,0.0
+2024020075,2,False,2024-10-19,OTT,Ottawa Senators,True,TBL,Tampa Bay Lightning,OTT,Ottawa Senators,4,5,1.217,2.0,0.638,1.0,0.144,1.0,1.243,4.0,0.348,0.0,0.053,0.0,2.0,2.0,1.0,4.0,0.0,0.0
+2024020076,2,False,2024-10-19,NSH,Nashville Predators,True,DET,Detroit Red Wings,NSH,Nashville Predators,5,2,2.498,1.0,0.152,1.0,0.129,0.0,1.942,2.0,0.917,1.0,0.0,0.0,1.0,1.0,0.0,4.0,1.0,0.0
+2024020077,2,False,2024-10-19,DAL,Dallas Stars,True,EDM,Edmonton Oilers,DAL,Dallas Stars,1,4,1.844,2.0,0.087,1.0,0.0,0.0,2.592,0.0,0.111,0.0,0.0,0.0,3.0,1.0,0.0,1.0,0.0,0.0
+2024020078,2,False,2024-10-19,FLA,Florida Panthers,True,VGK,Vegas Golden Knights,FLA,Florida Panthers,3,4,2.635,2.0,0.781,1.0,0.0,0.0,2.454,3.0,0.028,0.0,0.0,0.0,3.0,1.0,0.0,3.0,0.0,0.0
+2024020079,2,False,2024-10-19,TOR,Toronto Maple Leafs,True,NYR,New York Rangers,TOR,Toronto Maple Leafs,4,1,2.72,1.0,0.685,0.0,0.0,0.0,2.33,1.0,0.044,0.0,0.07,0.0,1.0,0.0,0.0,4.0,0.0,0.0
+2024020080,2,False,2024-10-19,NJD,New Jersey Devils,True,WSH,Washington Capitals,NJD,New Jersey Devils,6,5,2.262,4.0,0.602,1.0,0.0,0.0,2.269,5.0,0.044,0.0,0.044,0.0,4.0,1.0,0.0,6.0,0.0,0.0
+2024020081,2,False,2024-10-19,NYI,New York Islanders,True,MTL,Montréal Canadiens,NYI,New York Islanders,3,4,1.91,2.0,0.854,1.0,0.0,0.0,2.316,2.0,0.648,1.0,0.0799999999999999,0.0,2.0,1.0,0.0,2.0,1.0,0.0
+2024020082,2,False,2024-10-19,PHI,Philadelphia Flyers,True,VAN,Vancouver Canucks,PHI,Philadelphia Flyers,3,0,2.012,0.0,0.617,0.0,0.268,0.0,1.548,3.0,0.007,0.0,0.077,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+2024020083,2,False,2024-10-19,CBJ,Columbus Blue Jackets,True,MIN,Minnesota Wild,CBJ,Columbus Blue Jackets,3,1,0.799,1.0,1.186,0.0,0.03,0.0,2.494,2.0,0.09,0.0,0.029,0.0,1.0,0.0,0.0,2.0,1.0,0.0
+2024020084,2,False,2024-10-19,STL,St. Louis Blues,True,CAR,Carolina Hurricanes,STL,St. Louis Blues,3,4,1.505,4.0,0.262,0.0,0.021,0.0,1.78,2.0,0.416,1.0,0.026,0.0,4.0,0.0,0.0,2.0,1.0,0.0
+2024020085,2,False,2024-10-19,CHI,Chicago Blackhawks,True,BUF,Buffalo Sabres,CHI,Chicago Blackhawks,4,2,2.144,2.0,0.19,0.0,0.213,0.0,0.809,3.0,1.138,0.0,0.0,0.0,2.0,0.0,0.0,4.0,0.0,0.0
+2024020086,2,False,2024-10-19,UTA,Arizona Coyotes,True,BOS,Boston Bruins,UTA,Arizona Coyotes,1,2,1.296,1.0,0.78,0.0,0.047,0.0,1.5,1.0,0.133,0.0,0.022,0.0,2.0,0.0,0.0,1.0,0.0,0.0
+2024020087,2,False,2024-10-19,SEA,Seattle Kraken,True,CGY,Calgary Flames,SEA,Seattle Kraken,1,2,1.453,0.0,0.533,0.0,0.0,0.0,2.464,0.0,0.44,1.0,0.039,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+2024020088,2,False,2024-10-20,WPG,Winnipeg Jets,True,PIT,Pittsburgh Penguins,WPG,Winnipeg Jets,3,6,3.57,3.0,0.0,0.0,0.0,0.0,3.599,2.0,0.633,1.0,0.0,0.0,6.0,0.0,0.0,2.0,1.0,0.0
+2024020089,2,False,2024-10-20,SJS,San Jose Sharks,True,COL,Colorado Avalanche,SJS,San Jose Sharks,4,1,1.208,0.0,1.102,1.0,0.0,0.0,1.462,2.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,1.0,0.0
+2024020090,2,False,2024-10-20,ANA,Anaheim Ducks,True,LAK,Los Angeles Kings,ANA,Anaheim Ducks,4,1,1.418,1.0,0.212,0.0,0.0,0.0,2.099,2.0,0.072,0.0,0.142,0.0,1.0,0.0,0.0,4.0,0.0,0.0
+2024020091,2,False,2024-10-21,TOR,Toronto Maple Leafs,True,TBL,Tampa Bay Lightning,TOR,Toronto Maple Leafs,2,5,2.044,4.0,1.273,1.0,0.0,0.0,2.282,1.0,0.654,1.0,0.253,0.0,4.0,1.0,0.0,1.0,1.0,0.0
+2024020092,2,False,2024-10-22,PHI,Philadelphia Flyers,True,WSH,Washington Capitals,PHI,Philadelphia Flyers,4,1,1.005,0.0,0.124,0.0,0.494,0.0,1.365,1.0,0.091,0.0,0.259,2.0,1.0,0.0,0.0,2.0,0.0,2.0
+2024020093,2,False,2024-10-22,FLA,Florida Panthers,True,MIN,Minnesota Wild,FLA,Florida Panthers,5,1,2.001,1.0,,0.0,0.0,0.0,1.74,4.0,0.685,1.0,,0.0,1.0,0.0,0.0,4.0,1.0,0.0
+2024020094,2,False,2024-10-22,NJD,New Jersey Devils,True,TBL,Tampa Bay Lightning,NJD,New Jersey Devils,8,5,2.346,3.0,0.875,2.0,0.0,0.0,2.606,5.0,1.61,2.0,0.007,1.0,3.0,2.0,0.0,5.0,2.0,1.0
+2024020095,2,False,2024-10-22,BUF,Buffalo Sabres,True,DAL,Dallas Stars,BUF,Buffalo Sabres,2,4,1.942,3.0,0.428,0.0,0.012,0.0,2.234,0.0,0.058,0.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0
+2024020096,2,False,2024-10-22,MTL,Montréal Canadiens,True,NYR,New York Rangers,MTL,Montréal Canadiens,7,2,1.69,1.0,0.313,1.0,0.0,0.0,3.951,6.0,1.219,1.0,0.566,0.0,1.0,1.0,0.0,6.0,1.0,0.0
+2024020097,2,False,2024-10-22,CBJ,Columbus Blue Jackets,True,TOR,Toronto Maple Leafs,CBJ,Columbus Blue Jackets,2,6,2.552,6.0,0.481,0.0,0.093,0.0,1.869,2.0,0.057,0.0,0.108,0.0,6.0,0.0,0.0,2.0,0.0,0.0
+2024020098,2,False,2024-10-22,NYI,New York Islanders,True,DET,Detroit Red Wings,NYI,New York Islanders,1,0,1.251,0.0,1.14,0.0,0.007,0.0,0.804,1.0,0.017,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+2024020099,2,False,2024-10-22,STL,St. Louis Blues,True,WPG,Winnipeg Jets,STL,St. Louis Blues,3,2,2.521,2.0,0.141,0.0,0.058,0.0,1.752,2.0,0.613,1.0,0.035,0.0,2.0,0.0,0.0,2.0,1.0,0.0
+2024020100,2,False,2024-10-22,CHI,Chicago Blackhawks,True,VAN,Vancouver Canucks,CHI,Chicago Blackhawks,6,3,1.499,2.0,0.827,0.0,0.0,0.0,1.95,4.0,1.434,2.0,0.038,0.0,2.0,1.0,0.0,4.0,2.0,0.0
+2024020106,2,False,2024-10-22,SEA,Seattle Kraken,True,COL,Colorado Avalanche,SEA,Seattle Kraken,3,2,2.562,1.0,,0.0,0.045,0.0,2.736,2.0,0.425,1.0,,0.0,1.0,1.0,0.0,2.0,1.0,0.0
+2024020101,2,False,2024-10-22,NSH,Nashville Predators,True,BOS,Boston Bruins,NSH,Nashville Predators,0,4,2.689,2.0,1.315,1.0,0.0,0.0,1.444,0.0,0.162,0.0,0.196,0.0,3.0,1.0,0.0,0.0,0.0,0.0
+2024020103,2,False,2024-10-22,EDM,Edmonton Oilers,True,CAR,Carolina Hurricanes,EDM,Edmonton Oilers,3,2,2.4,1.0,1.197,1.0,0.0,0.0,2.97,1.0,0.604,1.0,0.307,0.0,1.0,1.0,0.0,2.0,1.0,0.0
+2024020104,2,False,2024-10-22,UTA,Arizona Coyotes,True,OTT,Ottawa Senators,UTA,Arizona Coyotes,4,0,3.505,0.0,0.532,0.0,0.0,0.0,1.834,1.0,0.629,1.0,0.025,0.0,0.0,0.0,0.0,3.0,1.0,0.0
+2024020102,2,False,2024-10-22,CGY,Calgary Flames,True,PIT,Pittsburgh Penguins,CGY,Calgary Flames,3,4,1.132,2.0,1.02,0.0,0.288,0.0,2.582,2.0,0.592,1.0,0.015,0.0,3.0,0.0,0.0,2.0,1.0,0.0
+2024020105,2,False,2024-10-22,ANA,Anaheim Ducks,True,SJS,San Jose Sharks,ANA,Anaheim Ducks,1,3,2.887,0.0,1.217,2.0,0.0,0.0,1.935,0.0,0.319,1.0,0.132,0.0,1.0,2.0,0.0,0.0,1.0,0.0
+2024020107,2,False,2024-10-22,VGK,Vegas Golden Knights,True,LAK,Los Angeles Kings,VGK,Vegas Golden Knights,1,6,2.484,4.0,0.77,2.0,0.0,0.0,3.324,1.0,0.396,0.0,0.0,0.0,4.0,2.0,0.0,1.0,0.0,0.0
+2024020108,2,False,2024-10-23,WSH,Washington Capitals,True,PHI,Philadelphia Flyers,WSH,Washington Capitals,3,6,1.882,4.0,0.774,0.0,0.0,0.0,1.824,1.0,0.409,1.0,0.043,0.0,6.0,0.0,0.0,1.0,2.0,0.0
+2024020109,2,False,2024-10-24,BOS,Boston Bruins,True,DAL,Dallas Stars,BOS,Boston Bruins,5,2,1.782,0.0,1.068,1.0,0.022,0.0,1.294,1.0,1.581,3.0,0.488,0.0,1.0,1.0,0.0,2.0,3.0,0.0
+2024020110,2,False,2024-10-24,TOR,Toronto Maple Leafs,True,STL,St. Louis Blues,TOR,Toronto Maple Leafs,5,1,1.71,1.0,1.703,0.0,0.0,0.0,1.294,3.0,0.684,1.0,0.0,0.0,1.0,0.0,0.0,4.0,1.0,0.0
+2024020111,2,False,2024-10-24,DET,Detroit Red Wings,True,NJD,New Jersey Devils,DET,Detroit Red Wings,3,5,0.979,2.0,0.651,2.0,0.0,0.0,2.164,0.0,1.673,3.0,0.152,0.0,3.0,2.0,0.0,0.0,3.0,0.0
+2024020112,2,False,2024-10-24,TBL,Tampa Bay Lightning,True,MIN,Minnesota Wild,TBL,Tampa Bay Lightning,4,2,1.193,1.0,0.0,0.0,0.194,1.0,1.042,2.0,0.344,1.0,0.0,0.0,1.0,0.0,1.0,3.0,1.0,0.0
+2024020113,2,False,2024-10-24,NYR,New York Rangers,True,FLA,Florida Panthers,NYR,New York Rangers,3,1,2.114,1.0,0.985,0.0,0.043,0.0,2.717,3.0,0.031,0.0,0.068,0.0,1.0,0.0,0.0,3.0,0.0,0.0
+2024020114,2,False,2024-10-24,CGY,Calgary Flames,True,CAR,Carolina Hurricanes,CGY,Calgary Flames,4,2,1.729,2.0,1.082,0.0,0.0,0.0,2.997,2.0,0.565,1.0,0.0,0.0,2.0,0.0,0.0,3.0,1.0,0.0
+2024020115,2,False,2024-10-24,UTA,Arizona Coyotes,True,COL,Colorado Avalanche,UTA,Arizona Coyotes,5,1,1.612,1.0,0.377,0.0,0.184,0.0,1.247,3.0,1.039,2.0,0.135,0.0,1.0,0.0,0.0,3.0,2.0,0.0
+2024020116,2,False,2024-10-24,SEA,Seattle Kraken,True,WPG,Winnipeg Jets,SEA,Seattle Kraken,4,3,1.661,3.0,0.49,0.0,0.0,0.0,1.473,3.0,0.04,0.0,0.0,0.0,3.0,0.0,0.0,4.0,0.0,0.0
+2024020117,2,False,2024-10-24,LAK,Los Angeles Kings,True,SJS,San Jose Sharks,LAK,Los Angeles Kings,2,3,2.81,3.0,0.058,0.0,0.962,0.0,1.782,0.0,0.327,1.0,0.028,0.0,3.0,0.0,0.0,0.0,2.0,0.0
+2024020118,2,False,2024-10-25,VGK,Vegas Golden Knights,True,OTT,Ottawa Senators,VGK,Vegas Golden Knights,4,6,1.4429999999999998,4.0,0.3789999999999999,1.0,0.01,0.0,1.87,3.0,0.503,1.0,0.013,0.0,5.0,1.0,0.0,3.0,1.0,0.0
+2024020119,2,False,2024-10-25,NJD,New Jersey Devils,True,NYI,New York Islanders,NJD,New Jersey Devils,4,3,2.456,2.0,0.793,0.0,0.045,0.0,1.74,2.0,0.7619999999999999,1.0,0.356,0.0,3.0,0.0,0.0,3.0,1.0,0.0
+2024020120,2,False,2024-10-25,CHI,Chicago Blackhawks,True,NSH,Nashville Predators,CHI,Chicago Blackhawks,3,2,1.744,2.0,1.523,0.0,0.2309999999999999,0.0,2.255,1.0,0.3289999999999999,1.0,0.083,1.0,2.0,0.0,0.0,1.0,1.0,1.0
+2024020121,2,False,2024-10-25,EDM,Edmonton Oilers,True,PIT,Pittsburgh Penguins,EDM,Edmonton Oilers,0,4,4.985,3.0,0.348,1.0,0.124,0.0,1.987,0.0,0.036,0.0,0.086,0.0,3.0,1.0,0.0,0.0,0.0,0.0
+2024020122,2,False,2024-10-26,BUF,Buffalo Sabres,True,DET,Detroit Red Wings,BUF,Buffalo Sabres,3,5,1.756,3.0,0.762,1.0,0.0,0.0,1.077,2.0,0.549,0.0,0.108,1.0,4.0,1.0,0.0,2.0,0.0,1.0
+2024020123,2,False,2024-10-26,PHI,Philadelphia Flyers,True,MIN,Minnesota Wild,PHI,Philadelphia Flyers,5,7,2.5,4.0,0.227,1.0,0.137,0.0,1.412,4.0,1.005,1.0,0.0,0.0,6.0,1.0,0.0,4.0,1.0,0.0
+2024020124,2,False,2024-10-26,LAK,Los Angeles Kings,True,UTA,Arizona Coyotes,LAK,Los Angeles Kings,2,3,1.503,2.0,0.176,1.0,0.0,0.0,1.518,2.0,0.0289999999999999,0.0,0.0,0.0,2.0,1.0,0.0,2.0,0.0,0.0
+2024020125,2,False,2024-10-26,BOS,Boston Bruins,True,TOR,Toronto Maple Leafs,BOS,Boston Bruins,3,4,1.898,2.0,0.575,1.0,0.004,0.0,1.371,1.0,0.609,0.0,0.0,0.0,3.0,1.0,0.0,3.0,0.0,0.0
+2024020126,2,False,2024-10-26,MTL,Montréal Canadiens,True,STL,St. Louis Blues,MTL,Montréal Canadiens,2,5,1.934,3.0,0.388,1.0,0.0,0.0,2.135,2.0,0.104,0.0,0.009,0.0,4.0,1.0,0.0,2.0,0.0,0.0
+2024020127,2,False,2024-10-26,TBL,Tampa Bay Lightning,True,WSH,Washington Capitals,TBL,Tampa Bay Lightning,0,3,1.558,3.0,0.3359999999999999,0.0,0.0,0.0,2.505,0.0,0.009,0.0,0.164,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+2024020128,2,False,2024-10-26,NYR,New York Rangers,True,ANA,Anaheim Ducks,NYR,New York Rangers,1,2,2.651,2.0,0.203,0.0,0.0,0.0,1.16,0.0,0.071,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0
+2024020129,2,False,2024-10-26,CGY,Calgary Flames,True,WPG,Winnipeg Jets,CGY,Calgary Flames,5,3,1.119,3.0,0.789,0.0,0.0,0.0,1.237,1.0,1.394,2.0,0.2,1.0,3.0,0.0,0.0,2.0,2.0,1.0
+2024020130,2,False,2024-10-26,NYI,New York Islanders,True,FLA,Florida Panthers,NYI,New York Islanders,6,3,2.515,3.0,0.194,0.0,0.012,0.0,2.719,4.0,0.438,1.0,0.074,0.0,3.0,0.0,0.0,4.0,1.0,1.0
+2024020131,2,False,2024-10-26,NSH,Nashville Predators,True,CBJ,Columbus Blue Jackets,NSH,Nashville Predators,3,4,2.7,2.0,0.391,0.0,0.0,0.0,1.594,3.0,0.024,0.0,0.046,0.0,4.0,0.0,0.0,3.0,0.0,0.0
+2024020132,2,False,2024-10-26,DAL,Dallas Stars,True,CHI,Chicago Blackhawks,DAL,Dallas Stars,2,4,2.488,2.0,0.85,1.0,0.147,0.0,1.837,2.0,0.144,0.0,0.015,0.0,3.0,1.0,0.0,2.0,0.0,0.0
+2024020133,2,False,2024-10-26,VAN,Vancouver Canucks,True,PIT,Pittsburgh Penguins,VAN,Vancouver Canucks,3,4,2.632,4.0,0.438,0.0,0.036,0.0,1.011,3.0,0.087,0.0,0.178,0.0,4.0,0.0,0.0,3.0,0.0,0.0
+2024020134,2,False,2024-10-26,VGK,Vegas Golden Knights,True,SJS,San Jose Sharks,VGK,Vegas Golden Knights,3,7,2.1590000000000003,5.0,1.039,1.0,0.046,1.0,2.664,3.0,0.026,0.0,0.0,0.0,5.0,1.0,1.0,3.0,0.0,0.0
+2024020135,2,False,2024-10-26,SEA,Seattle Kraken,True,CAR,Carolina Hurricanes,SEA,Seattle Kraken,4,1,0.976,1.0,0.552,0.0,0.252,0.0,2.995,2.0,0.808,1.0,0.0,0.0,1.0,0.0,0.0,3.0,1.0,0.0
+2024020136,2,False,2024-10-27,DET,Detroit Red Wings,True,EDM,Edmonton Oilers,DET,Detroit Red Wings,3,2,2.998,2.0,0.059,0.0,0.02,0.0,2.096,2.0,0.031,0.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,0.0
+2024020137,2,False,2024-10-27,NJD,New Jersey Devils,True,ANA,Anaheim Ducks,NJD,New Jersey Devils,2,6,2.883,3.0,0.245,1.0,0.0,0.0,1.164,2.0,0.096,0.0,0.0,0.0,5.0,1.0,0.0,2.0,0.0,0.0
+2024020138,2,False,2024-10-27,PHI,Philadelphia Flyers,True,MTL,Montréal Canadiens,PHI,Philadelphia Flyers,4,3,1.992,2.0,0.46,0.0,0.0,0.0,1.802,3.0,0.708,1.0,0.0,0.0,3.0,0.0,0.0,3.0,1.0,0.0
+2024020139,2,False,2024-10-27,COL,Colorado Avalanche,True,OTT,Ottawa Senators,COL,Colorado Avalanche,4,5,3.072,3.0,0.252,0.0,0.0,0.0,2.204,3.0,0.0,0.0,0.005,0.0,5.0,0.0,0.0,4.0,0.0,0.0
+2024020140,2,False,2024-10-28,BUF,Buffalo Sabres,True,FLA,Florida Panthers,BUF,Buffalo Sabres,5,2,1.384,1.0,0.307,1.0,0.0,0.0,1.688,3.0,2.025,2.0,0.0,0.0,1.0,1.0,0.0,3.0,2.0,0.0
+2024020142,2,False,2024-10-28,CBJ,Columbus Blue Jackets,True,EDM,Edmonton Oilers,CBJ,Columbus Blue Jackets,1,6,2.096,5.0,0.262,1.0,0.047,0.0,1.592,0.0,0.504,1.0,0.11,0.0,5.0,1.0,0.0,0.0,1.0,0.0
+2024020141,2,False,2024-10-28,TBL,Tampa Bay Lightning,True,NSH,Nashville Predators,TBL,Tampa Bay Lightning,2,3,2.023,2.0,0.936,0.0,0.161,0.0,1.32,1.0,0.841,1.0,0.032,0.0,3.0,0.0,0.0,1.0,1.0,0.0
+2024020143,2,False,2024-10-28,WPG,Winnipeg Jets,True,TOR,Toronto Maple Leafs,WPG,Winnipeg Jets,6,4,0.645,0.0,0.865,2.0,0.011,0.0,2.643,5.0,0.089,0.0,0.309,0.0,2.0,2.0,0.0,6.0,0.0,0.0
+2024020144,2,False,2024-10-28,COL,Colorado Avalanche,True,CHI,Chicago Blackhawks,COL,Colorado Avalanche,5,2,1.203,1.0,0.605,0.0,0.081,0.0,2.09,2.0,0.514,1.0,0.011,0.0,1.0,1.0,0.0,4.0,1.0,0.0
+2024020145,2,False,2024-10-28,UTA,Arizona Coyotes,True,SJS,San Jose Sharks,UTA,Arizona Coyotes,5,4,1.958,4.0,0.151,0.0,0.017,0.0,1.79,1.0,0.146,0.0,0.142,0.0,4.0,0.0,0.0,4.0,1.0,0.0
+2024020146,2,False,2024-10-28,VAN,Vancouver Canucks,True,CAR,Carolina Hurricanes,VAN,Vancouver Canucks,4,3,2.052,3.0,0.293,0.0,0.0,0.0,1.494,3.0,0.6140000000000001,0.0,0.067,0.0,3.0,0.0,0.0,4.0,0.0,0.0
+2024020147,2,False,2024-10-28,VGK,Vegas Golden Knights,True,CGY,Calgary Flames,VGK,Vegas Golden Knights,0,5,2.418,5.0,0.333,0.0,0.0,0.0,1.055,0.0,0.079,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+2024020148,2,False,2024-10-29,BOS,Boston Bruins,True,PHI,Philadelphia Flyers,BOS,Boston Bruins,2,0,1.634,0.0,0.071,0.0,0.151,0.0,1.566,1.0,0.025,0.0,0.057,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+2024020149,2,False,2024-10-29,MTL,Montréal Canadiens,True,SEA,Seattle Kraken,MTL,Montréal Canadiens,8,2,3.074,2.0,1.364,0.0,0.0,0.0,2.13,4.0,1.482,2.0,0.345,0.0,2.0,0.0,0.0,5.0,3.0,0.0
+2024020150,2,False,2024-10-29,OTT,Ottawa Senators,True,STL,St. Louis Blues,OTT,Ottawa Senators,1,8,2.658,6.0,0.213,2.0,0.01,0.0,0.884,0.0,0.688,1.0,0.0,0.0,6.0,2.0,0.0,0.0,1.0,0.0
+2024020152,2,False,2024-10-29,NYI,New York Islanders,True,ANA,Anaheim Ducks,NYI,New York Islanders,3,1,2.823,0.0,0.462,1.0,0.101,0.0,1.325,0.0,1.531,2.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0
+2024020153,2,False,2024-10-29,PIT,Pittsburgh Penguins,True,MIN,Minnesota Wild,PIT,Pittsburgh Penguins,5,3,1.877,2.0,0.066,1.0,0.259,0.0,1.897,4.0,0.526,0.0,0.01,0.0,2.0,1.0,0.0,5.0,0.0,0.0
+2024020151,2,False,2024-10-29,WSH,Washington Capitals,True,NYR,New York Rangers,WSH,Washington Capitals,3,5,4.21,3.0,1.634,0.0,0.547,0.0,1.584,1.0,0.7110000000000001,1.0,0.143,0.0,5.0,0.0,0.0,2.0,1.0,0.0
+2024020154,2,False,2024-10-29,SJS,San Jose Sharks,True,LAK,Los Angeles Kings,SJS,San Jose Sharks,2,4,1.407,3.0,0.245,0.0,0.307,0.0,2.512,2.0,0.119,0.0,0.019,0.0,4.0,0.0,0.0,2.0,0.0,0.0
+2024020155,2,False,2024-10-30,CBJ,Columbus Blue Jackets,True,NYI,New York Islanders,CBJ,Columbus Blue Jackets,0,2,1.903,1.0,,0.0,0.189,0.0,2.13,0.0,0.026,0.0,,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+2024020156,2,False,2024-10-30,DET,Detroit Red Wings,True,WPG,Winnipeg Jets,DET,Detroit Red Wings,6,2,1.183,0.0,0.432,2.0,0.0,0.0,2.39,5.0,0.445,1.0,0.0,0.0,0.0,2.0,0.0,5.0,1.0,0.0
+2024020157,2,False,2024-10-30,COL,Colorado Avalanche,True,TBL,Tampa Bay Lightning,COL,Colorado Avalanche,5,2,2.557,1.0,1.418,1.0,0.026,0.0,1.555,4.0,0.036,0.0,0.2,0.0,1.0,1.0,0.0,5.0,0.0,0.0
+2024020158,2,False,2024-10-30,UTA,Arizona Coyotes,True,CGY,Calgary Flames,UTA,Arizona Coyotes,1,5,1.29,2.0,1.507,1.0,0.0,0.0,1.642,1.0,0.091,0.0,0.0,0.0,3.0,2.0,0.0,1.0,0.0,0.0
+2024020160,2,False,2024-10-30,LAK,Los Angeles Kings,True,VGK,Vegas Golden Knights,LAK,Los Angeles Kings,3,6,1.916,5.0,0.345,1.0,0.0,0.0,1.917,2.0,0.007,0.0,0.0,0.0,5.0,1.0,0.0,2.0,1.0,0.0
+2024020159,2,False,2024-10-30,VAN,Vancouver Canucks,True,NJD,New Jersey Devils,VAN,Vancouver Canucks,6,0,1.597,0.0,0.245,0.0,0.0,0.0,2.25,4.0,0.8160000000000001,1.0,0.142,1.0,0.0,0.0,0.0,4.0,1.0,1.0
+2024020161,2,False,2024-10-31,TOR,Toronto Maple Leafs,True,SEA,Seattle Kraken,TOR,Toronto Maple Leafs,1,4,1.413,3.0,0.627,0.0,0.0,0.0,1.141,0.0,0.036,0.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0
+2024020162,2,False,2024-10-31,PHI,Philadelphia Flyers,True,STL,St. Louis Blues,PHI,Philadelphia Flyers,1,2,1.182,2.0,0.4559999999999999,0.0,0.07,0.0,1.637,1.0,0.032,0.0,0.04,0.0,2.0,0.0,0.0,1.0,0.0,0.0
+2024020163,2,False,2024-10-31,PIT,Pittsburgh Penguins,True,ANA,Anaheim Ducks,PIT,Pittsburgh Penguins,1,2,3.864,1.0,0.48,0.0,0.007,0.0,1.942,1.0,0.015,0.0,0.01,0.0,2.0,0.0,0.0,1.0,0.0,0.0
+2024020164,2,False,2024-10-31,WSH,Washington Capitals,True,MTL,Montréal Canadiens,WSH,Washington Capitals,3,6,3.078,5.0,1.498,1.0,0.027,0.0,0.739,2.0,0.411,1.0,0.143,0.0,5.0,1.0,0.0,2.0,1.0,0.0
+2024020165,2,False,2024-10-31,CAR,Carolina Hurricanes,True,BOS,Boston Bruins,CAR,Carolina Hurricanes,2,8,2.493,4.0,0.917,3.0,0.017,0.0,0.924,1.0,0.639,0.0,0.2299999999999999,0.0,5.0,3.0,0.0,1.0,1.0,0.0
+2024020166,2,False,2024-10-31,NSH,Nashville Predators,True,EDM,Edmonton Oilers,NSH,Nashville Predators,5,1,1.699,0.0,0.433,1.0,0.0,0.0,2.063,5.0,0.009,0.0,0.017,0.0,0.0,1.0,0.0,5.0,0.0,0.0
+2024020167,2,False,2024-10-31,SJS,San Jose Sharks,True,CHI,Chicago Blackhawks,SJS,San Jose Sharks,2,3,2.225,2.0,0.047,1.0,0.0,0.0,2.254,2.0,0.024,0.0,0.0,0.0,2.0,1.0,0.0,2.0,0.0,0.0
+2024020168,2,True,2024-11-01,DAL,Dallas Stars,True,FLA,Florida Panthers,DAL,Dallas Stars,6,4,2.646,4.0,1.276,0.0,0.0,0.0,1.228,4.0,0.6220000000000001,1.0,0.034,1.0,4.0,0.0,0.0,4.0,1.0,1.0
+2024020169,2,False,2024-11-01,BUF,Buffalo Sabres,True,NYI,New York Islanders,BUF,Buffalo Sabres,4,3,2.009,1.0,0.613,1.0,0.0,0.0,1.726,3.0,0.8059999999999999,1.0,0.0,0.0,2.0,1.0,0.0,3.0,1.0,0.0
+2024020170,2,False,2024-11-01,NYR,New York Rangers,True,OTT,Ottawa Senators,NYR,New York Rangers,1,2,0.885,1.0,0.647,1.0,0.014,0.0,1.722,1.0,0.171,0.0,0.012,0.0,1.0,1.0,0.0,1.0,0.0,0.0
+2024020171,2,False,2024-11-01,CBJ,Columbus Blue Jackets,True,WPG,Winnipeg Jets,CBJ,Columbus Blue Jackets,6,2,1.075,1.0,0.196,1.0,0.011,0.0,4.0120000000000005,5.0,0.365,1.0,0.0,0.0,1.0,1.0,0.0,5.0,1.0,0.0
+2024020172,2,False,2024-11-01,MIN,Minnesota Wild,True,TBL,Tampa Bay Lightning,MIN,Minnesota Wild,3,5,1.42,3.0,1.149,0.0,0.04,0.0,0.876,0.0,1.315,2.0,0.0,0.0,5.0,0.0,0.0,1.0,2.0,0.0
+2024020173,2,False,2024-11-01,CGY,Calgary Flames,True,NJD,New Jersey Devils,CGY,Calgary Flames,0,3,1.225,2.0,0.581,0.0,0.01,0.0,1.372,0.0,0.09,0.0,0.054,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+2024020174,2,True,2024-11-02,FLA,Florida Panthers,True,DAL,Dallas Stars,FLA,Florida Panthers,2,4,1.366,2.0,0.758,1.0,0.015,0.0,1.572,1.0,0.552,1.0,0.197,0.0,,,,,,
+2024020175,2,False,2024-11-02,PHI,Philadelphia Flyers,True,BOS,Boston Bruins,PHI,Philadelphia Flyers,3,0,1.119,0.0,0.436,0.0,0.0,0.0,2.361,2.0,0.107,0.0,0.018,0.0,,,,,,
+2024020176,2,False,2024-11-02,LAK,Los Angeles Kings,True,CHI,Chicago Blackhawks,LAK,Los Angeles Kings,4,3,1.936,2.0,0.571,1.0,0.095,0.0,0.89,2.0,0.0,0.0,0.0,0.0,,,,,,
+2024020177,2,False,2024-11-02,WSH,Washington Capitals,True,CBJ,Columbus Blue Jackets,WSH,Washington Capitals,2,7,2.723,7.0,0.0,0.0,0.0,0.0,2.953,2.0,0.305,0.0,0.0,0.0,,,,,,
+2024020178,2,False,2024-11-02,OTT,Ottawa Senators,True,SEA,Seattle Kraken,OTT,Ottawa Senators,0,3,1.752,2.0,0.55,0.0,0.194,0.0,1.217,0.0,0.067,0.0,0.0,0.0,,,,,,
+2024020179,2,False,2024-11-02,DET,Detroit Red Wings,True,BUF,Buffalo Sabres,DET,Detroit Red Wings,1,2,1.72,0.0,0.4559999999999999,2.0,0.0,0.0,1.981,0.0,0.038,0.0,0.069,1.0,,,,,,
+2024020180,2,False,2024-11-02,PIT,Pittsburgh Penguins,True,MTL,Montréal Canadiens,PIT,Pittsburgh Penguins,1,3,1.817,1.0,0.316,1.0,0.0,0.0,1.585,1.0,0.035,0.0,0.038,0.0,,,,,,
+2024020181,2,False,2024-11-02,STL,St. Louis Blues,True,TOR,Toronto Maple Leafs,STL,St. Louis Blues,2,4,1.152,3.0,0.346,0.0,0.0,0.0,2.327,2.0,0.047,0.0,0.048,0.0,,,,,,
+2024020182,2,False,2024-11-02,NSH,Nashville Predators,True,COL,Colorado Avalanche,NSH,Nashville Predators,2,5,2.13,1.0,0.471,2.0,0.0,0.0,1.313,0.0,0.862,0.0,0.0,0.0,,,,,,
+2024020183,2,False,2024-11-02,VGK,Vegas Golden Knights,True,UTA,Arizona Coyotes,VGK,Vegas Golden Knights,3,4,3.084,3.0,0.2249999999999999,0.0,,0.0,2.776,3.0,,0.0,0.0,0.0,,,,,,
+2024020184,2,False,2024-11-02,SJS,San Jose Sharks,True,VAN,Vancouver Canucks,SJS,San Jose Sharks,3,2,1.772,1.0,0.078,0.0,0.042,0.0,2.174,3.0,0.055,0.0,0.032,0.0,,,,,,
+2024020185,2,False,2024-11-03,NYR,New York Rangers,True,NYI,New York Islanders,NYR,New York Rangers,2,5,1.825,2.0,0.401,1.0,0.49600000000000005,1.0,3.005,2.0,0.056,0.0,0.038,0.0,,,,,,
+2024020186,2,False,2024-11-03,WPG,Winnipeg Jets,True,TBL,Tampa Bay Lightning,WPG,Winnipeg Jets,4,7,2.008,4.0,0.42200000000000004,1.0,0.0,0.0,1.814,3.0,0.625,1.0,0.044,0.0,,,,,,
+2024020187,2,False,2024-11-03,BOS,Boston Bruins,True,SEA,Seattle Kraken,BOS,Boston Bruins,0,2,2.665,1.0,1.514,1.0,0.0,0.0,1.013,0.0,0.022,0.0,0.66,0.0,,,,,,
+2024020188,2,False,2024-11-03,CAR,Carolina Hurricanes,True,WSH,Washington Capitals,CAR,Carolina Hurricanes,2,4,3.075,3.0,0.475,0.0,0.034,0.0,1.923,1.0,0.069,0.0,0.013,0.0,,,,,,
+2024020189,2,False,2024-11-03,MIN,Minnesota Wild,True,TOR,Toronto Maple Leafs,MIN,Minnesota Wild,1,2,2.443,1.0,0.455,0.0,0.0,0.0,1.207,0.0,0.441,1.0,0.025,0.0,,,,,,
+2024020190,2,False,2024-11-03,CGY,Calgary Flames,True,EDM,Edmonton Oilers,CGY,Calgary Flames,4,2,2.165,1.0,0.161,1.0,0.0,0.0,1.853,2.0,1.04,1.0,0.0,0.0,,,,,,
+2024020191,2,False,2024-11-03,ANA,Anaheim Ducks,True,CHI,Chicago Blackhawks,ANA,Anaheim Ducks,4,2,3.043,1.0,1.004,0.0,0.0,0.0,2.18,2.0,1.027,2.0,0.0,0.0,,,,,,
